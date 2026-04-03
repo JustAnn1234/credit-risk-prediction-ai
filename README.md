@@ -29,6 +29,7 @@ I developed a machine learning pipeline that processes customer financial data a
    ```bash
    git clone [https://github.com/JustAnn1234/credit-risk-prediction-ai.git](https://github.com/JustAnn1234/credit-risk-prediction-ai.git)
 ⚠️ Note: The model file is >25MB. You can download the credit_risk_model.pkl here (https://drive.google.com/file/d/1sYAPNK7EnSFFNHdX5VP5UqmNuvKOBs6V/view?usp=sharing) and place it in the project folder.
+
 ![App Screenshot](Screenshot 2026-04-02 135452.png)
 ![App Screenshot](Screenshot 2026-04-01 162131.png)
 ![App Screenshot](Screenshot 2026-04-01 162119.png)
